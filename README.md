@@ -9,10 +9,14 @@ This repository contains the artifacts and reflections for the Industry Talk and
 - Industry Visit: UTM Digital
 - Video Link: https://youtu.be/xbv79ZG3r8k
   
+  
   ![photo_2026-01-12_14-02-35](https://github.com/user-attachments/assets/903ac016-63dd-4b23-9f12-7d51ef6636b2)
 - Industry Talk: PPG Industrial Talk
+
+[Industry Talk2 Report.pdf](https://github.com/user-attachments/files/24559468/Industry.Talk2.Report.pdf)
+- Industry Talk2:Project Management and System Development (Serunai Commerce)
   
-- Industry Visit: Johor Port (Pasir Gudang)
+- Industry Visit: Johor Port 
 
 ---
 
