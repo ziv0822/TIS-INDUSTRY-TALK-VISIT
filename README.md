@@ -1,4 +1,4 @@
-![photo_2026-01-12_14-02-35](https://github.com/user-attachments/assets/3d8281a7-8384-44be-abdf-c9e6768bc044)# Industry Talk & Industry Visit
+# Industry Talk & Industry Visit
 
 ## Overview
 This repository contains the artifacts and reflections for the Industry Talk and Industry Visit assignment as part of the Technology and Information System (SECP1513) course.
@@ -11,13 +11,6 @@ This repository contains the artifacts and reflections for the Industry Talk and
 - ![photo_2026-01-12_14-02-35](https://github.com/user-attachments/assets/903ac016-63dd-4b23-9f12-7d51ef6636b2)
 - Industry Talk: PPG Industrial Talk
 - Industry Visit: Johor Port (Pasir Gudang)
-
----
-
-## Artifacts
-The following materials were produced during the Industry Talk and Industry Visit activities:
-- Poster / newsletter / slides related to the industry visit or talk
-- Video materials (if applicable)
 
 ---
 
