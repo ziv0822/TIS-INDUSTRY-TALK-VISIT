@@ -15,7 +15,9 @@ This repository contains the artifacts and reflections for the Industry Talk and
 
 [Industry Talk2 Report.pdf](https://github.com/user-attachments/files/24559468/Industry.Talk2.Report.pdf)
 - Industry Talk2:Project Management and System Development (Serunai Commerce)
-  
+
+  ![1](https://github.com/user-attachments/assets/d2368fca-6355-4689-9699-e4d668209a77)
+  ![2](https://github.com/user-attachments/assets/ec80cf7d-172f-41c7-946a-ade948cde8d7)
 - Industry Visit: Johor Port 
 
 ---
